@@ -8,4 +8,4 @@
 |5|[Stepik "Машинное обучение](https://github.com/IT-DS-Alex/certificates/blob/main/stepik-certificate-8057(five).pdf)|04.08.23|
 |6|[Kaggle "Python"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20-%20Python.png)|08.08.23|
 |7|[Kaggle "Intro to SQL"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20-%20Intro%20to%20SQL.png)|10.08.23|
-|8|[Kaggle "Intro to SQL"]()|13.08.23|
+|8|[Kaggle "SQL"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20-%20Advanced%20SQL.png)|13.08.23|
