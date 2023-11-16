@@ -10,3 +10,4 @@
 |7|[Kaggle "Intro to SQL"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20-%20Intro%20to%20SQL.png)|10.08.23|
 |8|[Kaggle "Advanced SQL"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20-%20Advanced%20SQL.png)|13.08.23|
 |9|[Stepik "Тренажер по SQL"](https://github.com/IT-DS-Alex/certificates/blob/main/stepik-1aa0461(five).pdf)|20.08.23|
+|10|[Hakaton "ЯндыксМузыка"]()|09.11.23|
