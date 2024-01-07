@@ -10,5 +10,6 @@
 |7|[Kaggle "Intro to SQL"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20-%20Intro%20to%20SQL.png)|10.08.23|
 |8|[Kaggle "Advanced SQL"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20-%20Advanced%20SQL.png)|13.08.23|
 |9|[Stepik "Тренажер по SQL"](https://github.com/IT-DS-Alex/certificates/blob/main/stepik-1aa0461(five).pdf)|20.08.23|
-|10|[Hakaton "ЯндыксМузыка"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B8%CC%86.pdf)|09.11.23|
-|11|[Stepik "Практикум по математике и Python"](https://stepik.org/cert/2316125)|31.12.23|
+|10|[Stepik "Python: основы и применение"](https://stepik.org/cert/2158940)|27.08.23|
+|11|[Hakaton "ЯндыксМузыка"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B8%CC%86.pdf)|09.11.23|
+|12|[Stepik "Практикум по математике и Python"](https://stepik.org/cert/2316125)|31.12.23|
