@@ -14,3 +14,4 @@
 |11|[Hakaton "ЯндыксМузыка"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B8%CC%86.pdf)|09.11.23|
 |12|[Stepik "Практикум по математике и Python"](https://stepik.org/cert/2316125)|31.12.23|
 |13|[Kaggle "Feature Engineering"](https://www.kaggle.com/learn/certification/alekseypyton2022/feature-engineering)|15.01.24|
+|14|[Kaggle "Intro to Deep Learning"](https://www.kaggle.com/learn/certification/alekseypyton2022/intro-to-deep-learning)|18.01.24|
