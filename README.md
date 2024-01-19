@@ -6,7 +6,7 @@
 |3|[Kaggle "Computer vision"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20-%20Computer%20Vision.png)|21.05.23|
 |4|[Stepik "Нейронные сети и обработка текста"](https://stepik.org/cert/2098045)|10.06.23|
 |5|[Stepik "Машинное обучение"](https://stepik.org/cert/2141951)|04.08.23|
-|6|[Kaggle "Python"](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20-%20Python.png)|08.08.23|
+|6|[Kaggle "Python"](https://www.kaggle.com/learn/certification/alekseypyton2022/python)|08.08.23|
 |7|[Kaggle "Intro to SQL"](https://www.kaggle.com/learn/certification/alekseypyton2022/intro-to-sql)|10.08.23|
 |8|[Kaggle "Advanced SQL"](https://www.kaggle.com/learn/certification/alekseypyton2022/advanced-sql)|13.08.23|
 |9|[Stepik "Тренажер по SQL"](https://stepik.org/cert/2153987)|20.08.23|
