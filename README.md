@@ -16,3 +16,4 @@
 |12|[Stepik "Практикум по математике и Python"](https://stepik.org/cert/2316125)|31.12.23|
 |13|[Kaggle "Feature Engineering"](https://www.kaggle.com/learn/certification/alekseypyton2022/feature-engineering)|15.01.24|
 |14|[Kaggle "Intro to Deep Learning"](https://www.kaggle.com/learn/certification/alekseypyton2022/intro-to-deep-learning)|18.01.24|
+|15|[Stepik "Docker для начинающих + практический опыт"](https://stepik.org/cert/2342957)|27.01.24|
