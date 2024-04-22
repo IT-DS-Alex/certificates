@@ -18,3 +18,4 @@
 |14|[Kaggle "Intro to Deep Learning"](https://www.kaggle.com/learn/certification/alekseypyton2022/intro-to-deep-learning)|18.01.24|
 |15|[Stepik "Docker для начинающих + практический опыт"](https://stepik.org/cert/2342957)|27.01.24|
 |16|[Kaggle "Pandas"](https://www.kaggle.com/learn/certification/alekseypyton2022/pandas)|06.02.24|
+|17|[Благодарность от Samokat.tech](https://github.com/IT-DS-Alex/certificates/blob/main/diplom%D0%B0.pdf)|02.04.24|
