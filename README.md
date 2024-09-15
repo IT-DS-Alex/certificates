@@ -20,5 +20,5 @@
 |17|[Благодарность от Samokat.tech](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C.png)|02.04.24|
 |18|[Kaggle "Intro to Programming"](https://www.kaggle.com/learn/certification/alekseypyton2022/intro-to-programming)|05.06.24|
 |19|[Kaggle "Introduction to Machine Learning"](https://www.kaggle.com/learn/certification/alekseypyton2022/intro-to-machine-learning)|13.08.24|
-|20|[Благодарственное письмо](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C.png)|12.09.24|
+|20|[Благодарственное письмо](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2.pdf)|12.09.24|
 
