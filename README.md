@@ -21,4 +21,5 @@
 |18|[Kaggle "Intro to Programming"](https://www.kaggle.com/learn/certification/alekseypyton2022/intro-to-programming)|05.06.24|
 |19|[Kaggle "Introduction to Machine Learning"](https://www.kaggle.com/learn/certification/alekseypyton2022/intro-to-machine-learning)|13.08.24|
 |20|[Благодарственное письмо](https://github.com/IT-DS-Alex/certificates/blob/main/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2.pdf)|12.09.24|
+|21|[Stepik "Deep Learning in Finance"](https://stepik.org/cert/2567452)|16.09.24|
 
