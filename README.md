@@ -24,4 +24,4 @@
 |21|[Stepik "Deep Learning in Finance"](https://stepik.org/cert/2567452)|16.09.24|
 |22|[Kaggle "Intermediate Machine Learning"](https://www.kaggle.com/learn/certification/alekseypyton2022/intermediate-machine-learning)|21.11.24|
 |23|[Stepik "Нейронные сети"](https://stepik.org/cert/2662434)|24.11.24|
-
+|24|[Kaggle "Geospatial Analysis"](https://www.kaggle.com/learn/certification/alekseypyton2022/geospatial-analysis)|11.12.24|
