@@ -29,4 +29,6 @@
 |25|[Kaggle "Machine Learning Explainability"](https://www.kaggle.com/learn/certification/alekseypyton2022/machine-learning-explainability)|12.12.24|
 |26|[Stepik "КИТАЙСКИЙ ЯЗЫК.Уровень 1."](https://stepik.org/cert/2739875)|29.01.25|
 |27|[Stepik "КИТАЙСКИЙ ЯЗЫК.Уровень 2."](https://stepik.org/cert/2817753)|12.04.25|
+|28|[Kaggle "Data Visualization"](https://www.kaggle.com/learn/certification/alekseypyton2022/data-visualization)|19.04.25|
+
 
