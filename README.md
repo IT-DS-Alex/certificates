@@ -27,3 +27,5 @@
 |24|[Kaggle "Geospatial Analysis"](https://www.kaggle.com/learn/certification/alekseypyton2022/geospatial-analysis)|11.12.24|
 |25|[Kaggle "Machine Learning Explainability"](https://www.kaggle.com/learn/certification/alekseypyton2022/machine-learning-explainability)|12.12.24|
 |26|[Stepik "КИТАЙСКИЙ ЯЗЫК.Уровень 1."](https://stepik.org/cert/2739875)|29.01.25|
+|27|[Stepik "КИТАЙСКИЙ ЯЗЫК.Уровень 2."](https://stepik.org/cert/2817753)|12.04.25|
+
