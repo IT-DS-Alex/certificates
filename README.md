@@ -31,4 +31,4 @@
 |28|[Kaggle "Data Visualization"](https://www.kaggle.com/learn/certification/alekseypyton2022/data-visualization)|19.04.25|
 |29|[Kaggle "Data Cleaning"](https://www.kaggle.com/learn/certification/alekseypyton2022/data-cleaning)|03.05.25|
 |30|[Kaggle "Intro to Game AI and Reinforcement Learning"](https://www.kaggle.com/learn/certification/alekseypyton2022/intro-to-game-ai-and-reinforcement-learning)|05.05.25|
-|31|[Stepik "КИТАЙСКИЙ ЯЗЫК.Уровень 2."](https://stepik.org/cert/2817753)|17.05.25|
+|31|[Stepik "Свободное погружение в СУБД"](https://stepik.org/cert/2855393)|17.05.25|
