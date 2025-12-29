@@ -35,4 +35,4 @@
 |32|[Kaggle "Intro to AI Ethics"](https://www.kaggle.com/learn/certification/alekseypyton2022/intro-to-ai-ethics)|13.07.25|
 |33|[Kaggle "Time Series"](https://www.kaggle.com/learn/certification/alekseypyton2022/time-series)|04.09.25|
 |34|[Stepik "Марафон данных: знакомство с SQL и Python"](https://stepik.org/cert/3009374)|30.10.25|
-
+|35|[Stepik "Selenium на Python"](https://stepik.org/cert/3087322)|29.12.25|
